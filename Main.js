@@ -1,0 +1,1 @@
+client.channels.get("<ID of channel>").send("<message here>")
